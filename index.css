@@ -1,0 +1,21 @@
+body {
+    background-color: #000000; /* Substitua a cor pelo código da cor desejada */
+  }
+  body {
+    background-image: url('caminho-para-sua-imagem.jpg');
+    background-size: cover; /* Para redimensionar a imagem para cobrir toda a tela */
+  }
+  body {
+    background: linear-gradient(to bottom, #111111, hsl(48, 100%, 50%)); /* Gradiente de laranja para amarelo */
+  }
+  body {
+    background-image: url('caminho-para-sua-imagem.jpg');
+    background-repeat: repeat; /* A imagem será repetida vertical e horizontalmente */
+  }
+  body {
+    background-image: url('https://scdesign.org.br/wp-content/uploads/2021/04/fundo-branco-liso-1024x576.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Mantém a imagem de fundo fixa enquanto você rola a página */
+  }
+      
